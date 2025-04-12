@@ -1,0 +1,22 @@
+{
+    "name": "Order Delete Test",
+    "version": "1.0.0",
+    "description": "Order Delete Mig",
+    "type": "module",
+    "author": "Anik Acharjee",
+    "license": "",
+    "engines": {
+      "node": ">=20.0.0"
+    },
+    "dependencies": {
+      "@shopify/admin-api-client": "^1.0.4",
+      "axios": "^1.7.7",
+      "bottleneck": "^2.19.5",
+      "dotenv": "^16.4.5",
+      "fast-csv": "^5.0.2",
+      "mongoose": "^8.9.5",
+      "sort-stream": "^1.0.1",
+      "validator": "^13.12.0"
+    }
+  }
+  
